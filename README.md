@@ -56,7 +56,7 @@ To prevent data corruption when mixing Text and Binary (Image/Video) data in a s
 ## 🚀 Installation & Setup
 1.  **Clone the Repo:**
     ```bash
-    git clone [https://github.com/YourUsername/NearShare.git](https://github.com/YourUsername/NearShare.git)
+    git clone https://github.com/Bilal-Nazeer-Dev/NearShare.git
     ```
 2.  **Open in Android Studio:**
     * File -> Open -> Select the cloned folder.
