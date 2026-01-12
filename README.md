@@ -25,7 +25,7 @@ This project solves critical fragmentation issues in the Android ecosystem, spec
 ## 📸 Screenshots
 | Home Screen | Device Discovery | File Transfer (Chat) |
 |:---:|:---:|:---:|
-| <img src="screenshots/home.jpg" width="200"/> | <img src="screenshots/discovery.jpg" width="200"/> | <img src="screenshots/chat.jpg" width="200"/> |
+| <img src="screenshots/home.png" width="200"/> | <img src="screenshots/discovery.png" width="200"/> | <img src="screenshots/chat.png" width="200"/> |
 
 *(Note: Upload your screenshots to a folder named `screenshots` in your repo and update the names above)*
 
