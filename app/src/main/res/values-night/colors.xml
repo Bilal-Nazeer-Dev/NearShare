@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="screen_background">#121212</color>  <color name="surface_card">#1E1E1E</color>       <color name="text_primary">#FFFFFF</color>       <color name="text_secondary">#B0B0B0</color>     <color name="icon_tint">#FFFFFF</color>          <color name="divider">#2C2C2C</color>            <color name="near_blue">#448AFF</color>
+    <color name="near_blue_light">#2C2C2C</color>    <color name="near_blue_dark">#004EC4</color>
+    <color name="white_always">#FFFFFF</color>
+    <color name="black_always">#000000</color>
+</resources>
